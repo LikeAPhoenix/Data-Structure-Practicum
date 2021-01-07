@@ -1,0 +1,10 @@
+bubble_sort:29235.75 
+insert_sort:5600.78 
+select_sort:9027.38 
+shell_sort:18.15 
+quick_sort:12.26 
+heap_sort:17.62 
+merge_sort_recursion:13.78 
+merge_sort_circulation:13.60 
+radix_sort_LSD:19.17 
+radix_sort_MSD:42.99 

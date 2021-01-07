@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "editor.tabSize": 2,
+    "files.associations": {
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp"
+    }
+}

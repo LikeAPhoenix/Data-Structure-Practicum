@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/He/Desktop/Data Structure Practicum/my_huffman/MyHuffman.h
+iostream
+-
+string
+-
+
+C:/Users/He/Desktop/Data Structure Practicum/my_huffman/main.cpp
+windows.h
+-
+iostream
+-
+MyHuffman.h
+C:/Users/He/Desktop/Data Structure Practicum/my_huffman/MyHuffman.h
+

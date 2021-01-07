@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/He/Desktop/Data Structure Practicum/my_huffman/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"   -g -o CMakeFiles\\MyHuffman.dir\\main.cpp.obj -c \"C:\\Users\\He\\Desktop\\Data Structure Practicum\\my_huffman\\main.cpp\"",
+  "file": "C:/Users/He/Desktop/Data Structure Practicum/my_huffman/main.cpp"
+},
+{
+  "directory": "C:/Users/He/Desktop/Data Structure Practicum/my_huffman/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"   -g -o CMakeFiles\\MyHuffman.dir\\MyHuffman.cpp.obj -c \"C:\\Users\\He\\Desktop\\Data Structure Practicum\\my_huffman\\MyHuffman.cpp\"",
+  "file": "C:/Users/He/Desktop/Data Structure Practicum/my_huffman/MyHuffman.cpp"
+}
+]
